@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A9A9A9&center=true&vCenter=true&width=500&lines=ROOT@HEROBRINE:~$+Initializing...;Manipulando+o+Vazio+do+Backend;Construindo+Sistemas+Escaláveis;Explorando+as+Sombras+do+Código" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1500&color=A9A9A9&center=true&vCenter=true&width=800&lines=Lei+de+Mosher%3A+%22N%C3%A3o+se+preocupe+se+n%C3%A3o+funcionar+corretamente.+Se+tudo+acontecesse%2C+voc%C3%AA+ficaria+sem+emprego.%22;Edsger+W.+Dijkstra%3A+%22A+arte+de+programar+consiste+em+organizar+e+dominar+a+complexidade.%22;Deve+ser+cache.;Eu+amo+gatos+e+amo+a+minha+lina." alt="Typing SVG" />
 </div>
 
 ---
@@ -7,6 +7,7 @@
 ### 🌑 About me
 
 Dev Backend.
+Lei de Mosher: "Não se preocupe se não funcionar corretamente. Se tudo acontecesse, você ficaria sem emprego."
 
 - 🌍 **Origin:** Brasil - the
 - 🎓 **Status:** Cursando SPI no IFMA (Foco em Backend & hardware)
@@ -37,8 +38,11 @@ Dev Backend.
 ### Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SergioGuthyerres&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=A9A9A9&text_color=FFFFFF&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioGuthyerres&layout=compact&langs_count=6&theme=tokyonight&bg_color=0D1117&title_color=A9A9A9&text_color=FFFFFF&hide_border=true" alt="Linguagens mais usadas"/>
+  <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioGuthyerres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioGuthyerres&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens" />
+</div>
 </div>
 
 ---
@@ -67,5 +71,7 @@ Dev Backend.
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI4YmRjM2M5YjBlYzBmYjM5Zjk1MzhlNWM5Zjk1ZDY5Njk1Zjk1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kY79vfXGqcMVi/giphy.gif" width="150" alt="Enderman GIF">
+  <div align="center">
+  <img src="https://media.giphy.com/media/kY79vfXGqcMVi/giphy.gif" width="400" alt="Programming is hard GIF" />
+</div>
 </p>
