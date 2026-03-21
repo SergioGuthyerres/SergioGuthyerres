@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1500&color=A9A9A9&center=true&vCenter=true&width=800&lines=Lei+de+Mosher%3A+%22N%C3%A3o+se+preocupe+se+n%C3%A3o+funcionar+corretamente.+Se+tudo+acontecesse%2C+voc%C3%AA+ficaria+sem+emprego.%22;Edsger+W.+Dijkstra%3A+%22A+arte+de+programar+consiste+em+organizar+e+dominar+a+complexidade.%22;Deve+ser+cache.;Eu+amo+gatos+e+amo+a+minha+lina." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1500&color=A9A9A9&center=true&vCenter=true&width=800&lines=22;Deve+ser+cache.;Eu+amo+gatos+e+amo+a+minha+lina." alt="Typing SVG" />
 </div>
 
 ---
