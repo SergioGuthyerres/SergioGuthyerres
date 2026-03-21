@@ -33,20 +33,6 @@ Lei de Mosher: "Não se preocupe se não funcionar corretamente. Se tudo acontec
   <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,docker,git,linux,githubactions" />
 </div>
 
----
-
-### Stats
-
-<div align="center">
-  <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioGuthyerres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioGuthyerres&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens" />
-</div>
-</div>
-
----
-
 ### 🐍 The Ender-Snake (Contribuições)
 
 <div align="center">
@@ -64,9 +50,6 @@ Lei de Mosher: "Não se preocupe se não funcionar corretamente. Se tudo acontec
 <div align="center">
   <a href="mailto:guthyerressergio@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/SergioGuthyerres">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
 
