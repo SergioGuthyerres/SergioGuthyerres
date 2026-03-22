@@ -7,7 +7,7 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c198a109-89f1-4856-b058-883b8eec9b6f" width="750" alt="Enderman minecraft" />
+  <img src="https://github.com/user-attachments/assets/c198a109-89f1-4856-b058-883b8eec9b6f" width="750" height="400" alt="Enderman minecraft" />
 </div>
 
 ### 🌑 About me
