@@ -4,6 +4,9 @@
 
 ---
 
+<br>
+<br>
+
 ### 🌑 About me
 
 Dev Backend.
@@ -11,7 +14,19 @@ Lei de Mosher: "Não se preocupe se não funcionar corretamente. Se tudo acontec
 
 - 🌍 **Origin:** Brasil - the
 - 🎓 **Status:** Cursando SPI no IFMA (Foco em Backend & hardware)
-- ⚡ **Atualmente:** Desenvolvendo o **CodeSurv** (Real-time logic game) e o **Aquamonitor**.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=00FF00&center=true&vCenter=true&width=750&lines=%E2%9A%A1+%2A%2AAtualmente%3A%2A%2A+Desenvolvendo+o+%2A%2ACodeSurv%2A%2A+(Real-time+logic+game)+e+o+%2A%2AAquamonitor%2A%2A." alt="Atualmente desenvolvendo" />
+</div>
+
+---
+
+### Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioGuthyerres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Sergio" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioGuthyerres&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens do Sergio" />
+</div>
 
 ---
 
@@ -53,8 +68,6 @@ Lei de Mosher: "Não se preocupe se não funcionar corretamente. Se tudo acontec
   </a>
 </div>
 
-<p align="center">
-  <div align="center">
-  <img src="https://media.giphy.com/media/kY79vfXGqcMVi/giphy.gif" width="400" alt="Programming is hard GIF" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/88c6a0fc-3bb1-420f-830b-fbebe99c0a6c" width="400" alt="GIF animado" />
 </div>
-</p>
