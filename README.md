@@ -16,7 +16,7 @@ Lei de Mosher: "Não se preocupe se não funcionar corretamente. Se tudo acontec
 - 🌍 **Origin:** Brasil - the
 - 🎓 **Status:** Cursando SPI no IFMA (Foco em Backend & hardware)
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=A9A9A9&center=true&vCenter=true&width=750&lines=%E2%9A%A1+%2A%2AAtualmente%3A%2A%2A+Desenvolvendo+o+%2A%2ACodeSurv%2A%2A+(Real-time+logic+game)+e+o+%2A%2AAquamonitor%2A%2A." alt="Atualmente desenvolvendo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=A9A9A9&center=true&vCenter=true&width=750&lines=%E2%9A%A1+%2A%2AAtualmente%3A%2A%2A+Desenvolvendo+o+%2A%2ACodeSurv%2A%2A+(Real-time+logic+game)+e+o+%2A%2AAquamonitor%2A%2A." alt="Atualmente desenvolvendo" />
 </div>
 
 ---
