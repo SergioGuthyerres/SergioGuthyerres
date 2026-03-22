@@ -12,7 +12,7 @@
 
 ### 🌑 About me
 
-Dev FullStack.
+$\color{#B28DFF}{\text{Dev FullStack.}}$
 
 - 🌍 **Origin:** Brasil - the
 - 🎓 **Status:** Cursando Sistemas Para Internet no IFMA
