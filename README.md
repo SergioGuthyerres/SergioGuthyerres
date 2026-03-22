@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1500&color=A9A9A9&center=true&vCenter=true&width=800&lines=I+AM;Deve+ser+o+cache.;Eu+amo+gatos+e+amo+a+minha+lina." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1500&color=A9A9A9&center=true&vCenter=true&width=800&lines=Eu+me+chamo+Sergio+Guthyerres;Gosto+de+criar+e+entender+como+as+coisas+funcionam;Eu+amo+gatos+e+amo+a+minha+lina." alt="Typing SVG" />
 </div>
 
 ---
