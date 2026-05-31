@@ -12,7 +12,6 @@
 Dev FullStack.
 
 - 🌍 **Origin:** Brasil - the
-- 🎓 **Status:** Cursando Sistemas Para Internet no IFMA
 
 ---
 
