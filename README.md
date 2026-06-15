@@ -41,6 +41,4 @@ Dev FullStack.
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/88c6a0fc-3bb1-420f-830b-fbebe99c0a6c" width="750" alt="GIF animado" />
-</div>
+
