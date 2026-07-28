@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1500&color=A9A9A9&center=true&vCenter=true&width=800&lines=Eu+me+chamo+Sergio+Guthyerres;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1500&color=A9A9A9&center=true&vCenter=true&width=800&lines=Sergio+Guthyerres;" alt="Typing SVG" />
 </div>
 
 ---
@@ -11,7 +11,7 @@
 
 Dev FullStack.
 
-- 🌍 **Origin:** Brasil - the
+- 🌍 **Local:** Brasil - Teresina-PI
 
 ---
 
